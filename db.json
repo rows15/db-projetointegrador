@@ -1,0 +1,150 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "qualificacao": "Econômico",
+        "descricao": "Carros com baixo consumo",
+        "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2020_Toyota_Yaris_Design_HEV_CVT_1.5_Front.jpg/1024px-2020_Toyota_Yaris_Design_HEV_CVT_1.5_Front.jpg"
+      },
+      {
+        "id": 2,
+        "qualificacao": "Compacto",
+        "descricao": "Carros com tamanho compacto",
+        "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2016_Smart_Fortwo_Passion_Automatic_1.0_Front.jpg/1024px-2016_Smart_Fortwo_Passion_Automatic_1.0_Front.jpg"
+      },
+      {
+        "id": 3,
+        "qualificacao": "Confort",
+        "descricao": "Carros com amplo espaço interno",
+        "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Citroen_C4_%282020%29_IMG_4202.jpg/1024px-Citroen_C4_%282020%29_IMG_4202.jpg"
+      },
+      {
+        "id": 4,
+        "qualificacao": "Luxo",
+        "descricao": "Carros de luxo",
+        "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mercedes-Benz_S_500_%28W_222%29_%E2%80%93_Heckansicht%2C_6._April_2014%2C_Neuss.jpg/1024px-Mercedes-Benz_S_500_%28W_222%29_%E2%80%93_Heckansicht%2C_6._April_2014%2C_Neuss.jpg"
+      },
+      {
+        "id": 5,
+        "qualificacao": "Esportivo",
+        "descricao": "Carros esportivos",
+        "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Porsche_911_No_1000000%2C_70_Years_Porsche_Sports_Car%2C_Berlin_%281X7A3888%29.jpg/1024px-Porsche_911_No_1000000%2C_70_Years_Porsche_Sports_Car%2C_Berlin_%281X7A3888%29.jpg"
+      },
+      {
+        "id": 6,
+        "qualificacao": "Hatch",
+        "descricao": "Carros com formato hatch",
+        "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/2018_Honda_Jazz_%28GK5_MY18%29_VTi-S_hatchback_%282018-08-06%29_01.jpg/1024px-2018_Honda_Jazz_%28GK5_MY18%29_VTi-S_hatchback_%282018-08-06%29_01.jpg"
+      },
+      {
+        "id": 7,
+        "qualificacao": "Sedan",
+        "descricao": "Carros com formato sedan",
+        "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2013-2016_Toyota_Corolla_%28ZRE172R%29_SX_sedan_%282018-09-17%29_01.jpg/1024px-2013-2016_Toyota_Corolla_%28ZRE172R%29_SX_sedan_%282018-09-17%29_01.jpg"
+      },
+      {
+        "id": 8,
+        "qualificacao": "Pickup",
+        "descricao": "Carros com carroceria",
+        "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Fiat_Strada_Adventure_1.3_JTD_Multijet_Lumberjack_%28IV%29_%E2%80%93_Heckansicht%2C_5._Oktober_2013%2C_M%C3%BCnster.jpg/1024px-Fiat_Strada_Adventure_1.3_JTD_Multijet_Lumberjack_%28IV%29_%E2%80%93_Heckansicht%2C_5._Oktober_2013%2C_M%C3%BCnster.jpg"
+      },
+      {
+        "id": 9,
+        "qualificacao": "Elétrico",
+        "descricao": "Carros movidos a energia elétrica",
+        "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2019_Tesla_Model_3_Performance_AWD_Front.jpg/1024px-2019_Tesla_Model_3_Performance_AWD_Front.jpg"
+      },
+      {
+        "id": 10,
+        "qualificacao": "Minivan",
+        "descricao": "Carros a partir de 6 lugares",
+        "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2021_Toyota_Sienna_XLE_Hybrid%2C_front_12.21.21.jpg/1024px-2021_Toyota_Sienna_XLE_Hybrid%2C_front_12.21.21.jpg"
+      }
+    ],
+    "cities": [
+      {
+      "id": 1,
+      "nome": "São Paulo"
+      },
+       {
+      "id": 2,
+      "nome": "Rio de Raneiro"
+      },
+       {
+      "id": 3,
+      "nome": "Belo Horizonte"
+      }
+    ],
+    "productDetails": [
+      {
+        "id": 1,
+        "icon_url": "https://cdn-icons-png.flaticon.com/512/31/31307.png?w=826&t=st=1654304021~exp=1654304621~hmac=72bd496f697f42d72f73f597857f5d4f86dc73889966ea50dcbca3d64ceefe4e",
+        "characteristic": "ABS"
+      },
+      {
+        "id": 2,
+        "icon_url": "https://as1.ftcdn.net/v2/jpg/02/85/01/80/1000_F_285018011_A15VFduXXd6MLgK1l1YOuOfYWgCBhBai.jpg",
+        "characteristic": "Air bag"
+      },
+      {
+        "id": 3,
+        "icon_url": "https://as1.ftcdn.net/v2/jpg/02/90/61/78/1000_F_290617871_Dx0fGopLnJ0uvdIAwWP7oSL1qq1gzkd2.jpg",
+        "characteristic": "Ar-condicionado"
+      },
+      {
+        "id": 4,
+        "icon_url": "https://as2.ftcdn.net/v2/jpg/02/85/01/79/1000_F_285017954_pLWKH1inDn174aiQDuLEZ6OksefUrcNX.jpg",
+        "characteristic": "elétrico"
+      }
+    ],  
+    "products": [
+      {
+        "id": 1,
+        "url_imagem": "https://image1.mobiauto.com.br/images/api/images/v1.0/url/transform/cw_720?hash=21657ef9ee519ad11bfc0d480e4b9cefc37a5cc7469f695aa4b6e2bdb81d992d01df41a36366c687b4c5ff3e28ae03383299dba0a2616c3c1a5acf5beb1cac3e&url=https%3A%2F%2Fs3-sa-east-1.amazonaws.com%2Frevista.mobiauto%2FImagensSUVs%2F5%2BCarros%2Bmais%2Beconomicos%2Bdo%2BBrasil%2F5-Carros-mais-economicos-Peugeot-208.jpg",
+        "url_img": "https://repettosport.com/5108-tm_thickbox_default/deuter-aircontact-6010-sl.jpg",
+        "title": "nome carro economico",
+        "cityId":1,
+        "categoryId": 1,
+        "qualificacao": "Econômico",
+        "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband."     
+      },
+      {
+        "id": 2,
+        "url_imagem": "https://image1.mobiauto.com.br/images/api/images/v1.0/url/transform/cw_720?hash=21657ef9ee519ad11bfc0d480e4b9cefc37a5cc7469f695aa4b6e2bdb81d992d01df41a36366c687b4c5ff3e28ae03383299dba0a2616c3c1a5acf5beb1cac3e&url=https%3A%2F%2Fs3-sa-east-1.amazonaws.com%2Frevista.mobiauto%2FImagensSUVs%2F5%2BCarros%2Bmais%2Beconomicos%2Bdo%2BBrasil%2F5-Carros-mais-economicos-Peugeot-208.jpg",
+        "url_img": "https://repettosport.com/5108-tm_thickbox_default/deuter-aircontact-6010-sl.jpg",
+        "title": "nome carro economico",
+        "cityId":1,
+        "categoryId": 1,
+        "qualificacao": "Econômico",
+        "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband."
+      },
+       {
+        "id": 3,
+         "url_imagem":"https://wp-midia-nova.bidu.com.br/uploads/2018/04/04202336/carros-pequenos.jpg",
+         "url_img": "https://repettosport.com/5108-tm_thickbox_default/deuter-aircontact-6010-sl.jpg",
+         "title": "nome carro compacto",
+         "cityId":2,
+         "categoryId": 2,
+         "qualificacao": "Compacto",
+         "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband."
+      },
+       {
+        "id": 4,
+         "url_imagem":"https://www.boaec.com.br/wp-content/uploads/2021/02/Uber-Comfort-1.jpg",
+         "title": "nome carro confort",
+         "cityId":3,
+         "categoryId": 3,
+         "qualificacao": "Confort",
+         "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband."
+      }
+    ],
+    "users": [
+        {
+        "id": 1,
+        "name": "patricia",
+        "last_name": "pereira",
+        "email": "patricia@gmail.com",
+        "password": "secret"
+      }
+    ]  
+  }
