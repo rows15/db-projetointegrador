@@ -19,12 +19,6 @@
       "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Citroen_C4_%282020%29_IMG_4202.jpg/1024px-Citroen_C4_%282020%29_IMG_4202.jpg"
     },
     {
-      "id": 4,
-      "qualificacao": "Luxo",
-      "descricao": "Carros de luxo",
-      "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mercedes-Benz_S_500_%28W_222%29_%E2%80%93_Heckansicht%2C_6._April_2014%2C_Neuss.jpg/1024px-Mercedes-Benz_S_500_%28W_222%29_%E2%80%93_Heckansicht%2C_6._April_2014%2C_Neuss.jpg"
-    },
-    {
       "id": 5,
       "qualificacao": "Esportivo",
       "descricao": "Carros esportivos",
