@@ -76,19 +76,23 @@
     }
   ],
   "productDetails": [
-    {
+    { 
+      "id":1,
       "icon_url": "https://cdn-icons-png.flaticon.com/512/31/31307.png?w=826&t=st=1654304021~exp=1654304621~hmac=72bd496f697f42d72f73f597857f5d4f86dc73889966ea50dcbca3d64ceefe4e",
       "characteristic": "ABS"
     },
     {
+      "id":2,
       "icon_url": "https://as1.ftcdn.net/v2/jpg/02/85/01/80/1000_F_285018011_A15VFduXXd6MLgK1l1YOuOfYWgCBhBai.jpg",
       "characteristic": "Air bag"
     },
     {
+      "id":3,
       "icon_url": "https://as1.ftcdn.net/v2/jpg/02/90/61/78/1000_F_290617871_Dx0fGopLnJ0uvdIAwWP7oSL1qq1gzkd2.jpg",
       "characteristic": "Ar-condicionado"
     },
     {
+      "id":4,
       "icon_url": "https://as2.ftcdn.net/v2/jpg/02/85/01/79/1000_F_285017954_pLWKH1inDn174aiQDuLEZ6OksefUrcNX.jpg",
       "characteristic": "elétrico"
     }
